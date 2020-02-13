@@ -3,18 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tylerhoran.org/posts/my-first-post/</loc>
-    <lastmod>2019-10-18T18:21:48-07:00</lastmod>
+    <loc>https://tylerhoran.org/blog/</loc>
+    <lastmod>2019-11-02T08:47:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tylerhoran.org/posts/</loc>
-    <lastmod>2019-10-18T18:21:48-07:00</lastmod>
+    <loc>https://tylerhoran.org/blog/digital-ethnographic-tools-for-social-research/</loc>
+    <lastmod>2019-11-02T08:47:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerhoran.org/blog/journal-discovery/</loc>
+    <lastmod>2019-11-02T08:47:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerhoran.org/teaching/intro-comp-soc-sci/</loc>
+    <lastmod>2019-11-02T08:47:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerhoran.org/teaching/programming-abstractions/</loc>
+    <lastmod>2019-11-02T08:47:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerhoran.org/teaching/</loc>
+    <lastmod>2019-11-02T08:47:11+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://tylerhoran.org/</loc>
-    <lastmod>2019-10-18T18:21:48-07:00</lastmod>
+    <lastmod>2019-11-02T08:47:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerhoran.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tylerhoran.org/publications/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerhoran.org/resources/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

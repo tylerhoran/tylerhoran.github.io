@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Tyler Horan</title>
+    <link>https://tylerhoran.org/blog/</link>
+    <description>Recent content in Blogs on Tyler Horan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Nov 2019 08:47:11 +0100</lastBuildDate>
+    
+	<atom:link href="https://tylerhoran.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Digital Tools for The Analog Ethnographer</title>
+      <link>https://tylerhoran.org/blog/digital-ethnographic-tools-for-social-research/</link>
+      <pubDate>Sat, 02 Nov 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://tylerhoran.org/blog/digital-ethnographic-tools-for-social-research/</guid>
+      <description>Ethonographic and interview methods for the social sciences have been around since the professionalization of the academic fields themselves. The idea of moving into a social field and interacting with participants can, without a doubt, yield rich data that other quantitative and survey methods leave on the table.
+A tension exists for the researcher or being in the moment and storaging traces of that moment for analysis and data presentation in scholarly work.</description>
+    </item>
+    
+    <item>
+      <title>How to keep up with the scientific literature</title>
+      <link>https://tylerhoran.org/blog/journal-discovery/</link>
+      <pubDate>Sat, 02 Nov 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://tylerhoran.org/blog/journal-discovery/</guid>
+      <description>There&#39;s a lot of information out there. The best place to start is to make two lists (one of which is probably already available online).
+ What are the top journals in your field? What are the top journals in your field that cater to your research interests?  Now you have your lists. They may or may not have the same journals on them. The combination of your lists should be atleast 10 and at most 50.</description>
+    </item>
+    
+  </channel>
+</rss>
